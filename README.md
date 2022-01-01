@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/Harshitr2001" target="blank"><img src="https://img.shields.io/twitter/follow/Harshitr2001?logo=twitter&style=for-the-badge" alt="Harshitr2001" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://harshitrathi.me/](harshitrathi.me)
+- 👨‍💻 All of my projects are available at [harshitrathi.me](https://harshitrathi.me/)
 
 - 💬 Ask me about **MERN, Flutter , Data Structures and Algorithms**
 
 - 📫 How to reach me **harshitr2001@gmail.com**
 
-- 📄 Know about my experiences [https://harshitrathi.me/](harshitrathi.me)
+- 📄 Know about my experiences [harshitrathi.me](https://harshitrathi.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
