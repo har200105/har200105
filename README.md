@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [harshitrathi.me](https://harshitrathi.me/)
 
-- 💬 Ask me about **MERN, Flutter , Data Structures and Algorithms**
+- 💬 Ask me about **MERN, Flutter , Django , React Native , Data Structures and Algorithms**
 
 - 📫 How to reach me **harshitr2001@gmail.com**
 
