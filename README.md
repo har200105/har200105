@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Rathi</h1>
-<h3 align="center">A Full stack developer and Competitive Programmer. I Love to Develop MERN Stack and Flutter Projects</h3>
+<h3 align="center">A Full stack developer and Competitive Programmer. I Love to Develop MERN Stack,Flutter,Django and React Native Projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=har200105&label=Profile%20views&color=0e75b6&style=flat" alt="har200105" /> </p>
 
