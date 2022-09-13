@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://pbs.twimg.com/profile_banners/1340908001448710144/1661973134/1080x360" alt="har200105" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=har200105" alt="har200105" /></a> </p>
+<p align="left" margin-top="20"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=har200105" alt="har200105" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/Harshitr2001" target="blank"><img src="https://img.shields.io/twitter/follow/Harshitr2001?logo=twitter&style=for-the-badge" alt="Harshitr2001" /></a> </p>
 
