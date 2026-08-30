@@ -5,11 +5,16 @@
 ### Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-harshitrathi.me-black?style=for-the-badge&logo=todoist&logoColor=white)](https://harshitrathi.me)
+<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitrathi6451/)
+<br/>
 [![Email](https://img.shields.io/badge/Email-harshitr2001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitr2001@gmail.com)
+<br/>
 [![Twitter](https://img.shields.io/badge/Twitter-@Harshitr2001-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Harshitr2001)
+<br/>
 [![LeetCode](https://img.shields.io/badge/LeetCode-Harshit6451-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Harshit6451)
  
+
 </div>
 
 ---
@@ -45,14 +50,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=har200105&show_icons=true&theme=radical" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=har200105&layout=compact&theme=radical" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=har200105&theme=radical" alt="har200105" />
-
-</div>
