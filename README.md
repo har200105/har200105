@@ -2,13 +2,14 @@
 
 # Hi, I'm Harshit Rathi 👋
 
-### Backend-focused Full Stack Engineer | Founding Engineer @ Ambitio
+### Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-harshitrathi.me-black?style=for-the-badge&logo=todoist&logoColor=white)](https://harshitrathi.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitrathi6451/)
 [![Email](https://img.shields.io/badge/Email-harshitr2001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitr2001@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@Harshitr2001-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Harshitr2001)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-Harshit6451-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Harshit6451)
+ 
 </div>
 
 ---
@@ -44,17 +45,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-
-## 🧩 Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **[Yorker](https://github.com/har200105)** | MVP cricket fantasy app — build teams by selecting players for upcoming matches | Flutter, TypeScript, Node.js, Express, PostgreSQL, Redis, RabbitMQ |
-| **[Exit Poll System](https://github.com/har200105)** | Blockchain-based exit poll system with admin-controlled phases & voter authorization | Node.js, React.js, Solidity, Ethers.js |
-| **[Developerz](https://github.com/har200105)** | Platform for developers to showcase projects with community voting | Flutter, Node.js, Express.js, Mongoose |
-| **[College Dost](https://github.com/har200105)** | Q&A portal + shared resources (notes, papers) for college freshers | Node.js, Express.js, React.js, Redux, Mongoose |
-
----
 
 ## 📊 GitHub Stats
 
