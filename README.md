@@ -44,31 +44,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
----
-
-## 💼 Experience
-
-### Ambitio — Founding Engineer (Full-Time)
-*Jul 2023 – Present · Bengaluru, India*
-- Joined as the sole founding backend engineer; architected and scaled the backend from 0 to 100k+ users using Django and NestJS microservices.
-- Designed event-driven, asynchronous workflows with AWS SQS/SNS to decouple services and handle high-throughput background processing.
-- Built the real-time chat backend (DMs, group chats, multimedia, broadcast messaging) with WebSockets, MongoDB, and NestJS — scaled to 500k+ messages transacted.
-- Built the backend for a Document Editor (SOPs/LORs), writer-request workflows, and in-editor AI drafting assistance.
-- Built the test-preparation backend (GRE-style mock tests) using NestJS and DynamoDB.
-- Developed core platform tools: Profile Builder, Shortlist Builder, and Application Management.
-- Built the end-to-end payment flow and EMI system, plus an in-house CRM for student workflow management.
-- Laid the foundational backend architecture for web and mobile (Flutter) as the platform's first engineer.
-
-### Zeda.io — Backend Developer (Internship)
-*Jan 2023 – Jun 2023 · Bengaluru, India*
-- Implemented SSO authentication and enabled unauthenticated commenting on public portals.
-- Built a teammate mention system with real-time notification triggers.
-- Configured custom domain email delivery via AWS SES for Release Notes.
-- Extended the HubSpot integration to support additional sync workflows.
-- Implemented global search using PostgreSQL Full-Text Search.
-- Designed the Insights dashboard backend using a Star Schema for feedback analytics.
-
----
 
 ## 🧩 Projects
 
@@ -89,13 +64,5 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=har200105&layout=compact&theme=radical" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=har200105&theme=radical" alt="har200105" />
-
-</div>
-
----
-
-<div align="center">
-
-**Connect:** [GitHub](https://github.com/har200105) · [LeetCode](https://leetcode.com/Harshit6451) · [CodeChef](https://www.codechef.com/users/har_2001) · [Codeforces](https://codeforces.com/profile/hrathi2001) · [GeeksforGeeks](https://auth.geeksforgeeks.org/user/harshitrce19)
 
 </div>
